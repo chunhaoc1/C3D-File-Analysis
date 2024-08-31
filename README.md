@@ -8,6 +8,10 @@ This program analyze C3D file in several method for Caren System research.
 
 ## Authors:
 
+**Dr. Hossein Mokhtarzadeh**
+
+
+
 **Xin Shen** - Master of Information Technology, University of Melbourne
 
 xsshen2@student.unimelb.edu.au 
